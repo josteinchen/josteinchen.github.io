@@ -27,8 +27,8 @@ header.startup {
 }
 
 header.startup hr {
-  margin-top: 200px;
-  margin-bottom: 30px;
+  margin-top: 190px;
+  margin-bottom: 10px;
 }
 
 header.startup h1 {
@@ -42,8 +42,9 @@ header.startup h1 {
   font-family: "Montserrat", sans-serif;
 }
 
-.btn-xl {
+.btn-md {
   padding: 0.5rem 1rem;
+  font-size: 0.7rem;
 }
 
 .btn-primary {
